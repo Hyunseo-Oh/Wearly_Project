@@ -1,0 +1,5 @@
+{
+  "name": "Wearly",
+  "description": "A fashion sharing app like BeReal or Instagram.",
+  "requestFramePermissions": ["camera"]
+}
