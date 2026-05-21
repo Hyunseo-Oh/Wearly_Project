@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Inter:wght@400;500;600;700;800;900&display=swap');
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "SF Pro", "SF Pro Text", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-bruno: "Bruno Ace", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}
